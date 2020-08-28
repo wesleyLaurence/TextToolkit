@@ -10,4 +10,4 @@ TextToolkit is a library for mining unstructured text information. The Analyzer 
 - matplotlib
 - seaborn
 
-        For questions about this library, email wesleylaurencetech@gmail.com
+__For questions about this library, email wesleylaurencetech@gmail.com__
